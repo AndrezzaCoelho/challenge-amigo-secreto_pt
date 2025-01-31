@@ -14,7 +14,7 @@ Este projeto inovador permite a realização de sorteios de amigo secreto de for
 1.  **Clone o repositório:**
 
     ```bash
-    git clone https://[endereço do repositório]
+    git clone https://[https://github.com/AndrezzaCoelho/challenge-amigo-secreto_pt.git]
     ```
 
 2.  **Abra o arquivo `index.html` no seu navegador.**
@@ -57,7 +57,7 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir issues e 
 
 ## Licença
 
-Este projeto está sob a licença [Nome da sua licença].
+Este projeto está sob a licença [].
 
 ## Autor
 
